@@ -1,0 +1,12 @@
+import './_object-dp.js';
+import './_object-create.js';
+import './_redefine-all.js';
+import './_ctx.js';
+import './_an-instance.js';
+import './_defined.js';
+import './_for-of.js';
+import './_iter-define.js';
+import './_iter-step.js';
+import './_set-species.js';
+import './_descriptors.js';
+import './_meta.js';

@@ -1,0 +1,16 @@
+import "/scrape/babel-runtime@6.23.0/core-js/get-iterator.js";
+import "/scrape/babel-runtime@6.23.0/core-js/object/create.js";
+import "/scrape/babel-runtime@6.23.0/core-js/object/assign.js";
+import "/scrape/babel-runtime@6.23.0/helpers/classCallCheck.js";
+import "/scrape/babel-runtime@6.23.0/helpers/possibleConstructorReturn.js";
+import "/scrape/babel-runtime@6.23.0/helpers/inherits.js";
+import "./metadata.js";
+import "./options/option-manager.js";
+import "../plugin-pass.js";
+import "/scrape/babel-traverse@6.25.0/lib/index.js";
+import "./logger.js";
+import "../../store.js";
+import "../../util.js";
+import "../../helpers/resolve.js";
+import "../internal-plugins/block-hoist.js";
+import "../internal-plugins/shadow-functions.js";

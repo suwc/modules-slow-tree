@@ -1,0 +1,13 @@
+import './_global.js';
+import './_export.js';
+import './_meta.js';
+import './_fails.js';
+import './_hide.js';
+import './_redefine-all.js';
+import './_for-of.js';
+import './_an-instance.js';
+import './_is-object.js';
+import './_set-to-string-tag.js';
+import './_object-dp.js';
+import './_array-methods.js';
+import './_descriptors.js';
