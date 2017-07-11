@@ -4,6 +4,10 @@ This test case exposes performance bottlenecks in the Chrome and Firefox module 
 
 This is an extracted test case from the Babel code tree consisting of just 170 modules, with some circular references, that seems to result in a large amount of unnecessary processing work during the dependency analysis.
 
+### Running the test
+
+Run a local server, then open up `test.html`.
+
 ### Results
 
 In Safari, the page loads in 139ms, and displays the error that the export binding does not exist, which is the correct error.
