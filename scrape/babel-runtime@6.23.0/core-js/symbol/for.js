@@ -1,1 +1,1 @@
-import "/scrape/core-js@2.4.1/library/fn/symbol/for";
+import "../../../core-js@2.4.1/library/fn/symbol/for";

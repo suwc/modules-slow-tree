@@ -1,9 +1,9 @@
-import "/scrape/babel-runtime@6.23.0/helpers/objectWithoutProperties.js";
-import "/scrape/babel-runtime@6.23.0/core-js/json/stringify.js";
-import "/scrape/babel-runtime@6.23.0/core-js/object/assign.js";
-import "/scrape/babel-runtime@6.23.0/core-js/get-iterator.js";
-import "/scrape/babel-runtime@6.23.0/helpers/typeof.js";
-import "/scrape/babel-runtime@6.23.0/helpers/classCallCheck.js";
+import "../../../../../babel-runtime@6.23.0/helpers/objectWithoutProperties.js";
+import "../../../../../babel-runtime@6.23.0/core-js/json/stringify.js";
+import "../../../../../babel-runtime@6.23.0/core-js/object/assign.js";
+import "../../../../../babel-runtime@6.23.0/core-js/get-iterator.js";
+import "../../../../../babel-runtime@6.23.0/helpers/typeof.js";
+import "../../../../../babel-runtime@6.23.0/helpers/classCallCheck.js";
 import "../../../api/node.js";
 import "../../plugin.js";
 import "./index.js";

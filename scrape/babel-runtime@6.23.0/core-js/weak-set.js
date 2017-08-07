@@ -1,1 +1,1 @@
-import "/scrape/core-js@2.4.1/library/fn/weak-set";
+import "../../core-js@2.4.1/library/fn/weak-set";
